@@ -1,7 +1,25 @@
-\## 📁 Acceso al proyecto
+##Índice
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+*[Título e imagen de portada](#Título-e-imagen-de-portada)
 
-\## 🛠️ Abre y ejecuta el proyecto
+*[Insignias](#insignias)
 
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+*[Índice](#índice)
+
+*[Descripción del proyecto](#descripción-del-proyecto)
+
+*[Estado del proyecto](#Estado-del-proyecto)
+
+*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+
+*[Acceso al proyecto](#acceso-proyecto)
+
+*[Tecnologías utilizadas](#tecnologías-utilizadas)
+
+*[Personas Contribuyentes](#personas-contribuyentes)
+
+*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+
+* [Licencia](#licencia)
+
+*[Conclusión](#conclusión)
